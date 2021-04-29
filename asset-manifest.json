@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/robotsApp/static/css/main.7d7f63da.chunk.css",
+    "main.js": "/robotsApp/static/js/main.c592a34b.chunk.js",
+    "main.js.map": "/robotsApp/static/js/main.c592a34b.chunk.js.map",
+    "runtime-main.js": "/robotsApp/static/js/runtime-main.ba73676e.js",
+    "runtime-main.js.map": "/robotsApp/static/js/runtime-main.ba73676e.js.map",
+    "static/css/2.fe359a49.chunk.css": "/robotsApp/static/css/2.fe359a49.chunk.css",
+    "static/js/2.6b54c993.chunk.js": "/robotsApp/static/js/2.6b54c993.chunk.js",
+    "static/js/2.6b54c993.chunk.js.map": "/robotsApp/static/js/2.6b54c993.chunk.js.map",
+    "index.html": "/robotsApp/index.html",
+    "static/css/2.fe359a49.chunk.css.map": "/robotsApp/static/css/2.fe359a49.chunk.css.map",
+    "static/css/main.7d7f63da.chunk.css.map": "/robotsApp/static/css/main.7d7f63da.chunk.css.map",
+    "static/js/2.6b54c993.chunk.js.LICENSE.txt": "/robotsApp/static/js/2.6b54c993.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/robotsApp/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ba73676e.js",
+    "static/css/2.fe359a49.chunk.css",
+    "static/js/2.6b54c993.chunk.js",
+    "static/css/main.7d7f63da.chunk.css",
+    "static/js/main.c592a34b.chunk.js"
+  ]
+}
